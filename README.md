@@ -3,4 +3,4 @@
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
           ![](https://github.com/Kerayko/Introduction/blob/main/giphy%20(1).gif) 
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
-##### Interests: Object Detection. SLAM. Natural Language Processing. Machine Learning. AI Drawing.
+##### Interests: :name_badge: Object Detection. SLAM. Natural Language Processing. Machine Learning. AI Drawing.
