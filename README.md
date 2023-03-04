@@ -10,7 +10,7 @@
 ## Interests:     
 ### :name_badge:Object Detection.
 ### :bookmark:SLAM.
-### :heartpulse:Natural Language Processing.
+### :heartpulse:Natural Language Processing.![](https://github.com/Kerayko/Introduction/blob/main/giphy%20(3).gif)
 ### :neutral_face:Machine Learning.
 ### :sunglasses:AI Drawing.
 
@@ -18,4 +18,4 @@
 ### 🎮Vedio Game
 ### 🏊Swimming
 ### ✈️Sci-fi
-![](https://github.com/Kerayko/Introduction/blob/main/giphy%20(3).gif)    ![](https://github.com/Kerayko/Introduction/blob/main/giphy%20(2).gif)
+![](https://github.com/Kerayko/Introduction/blob/main/giphy%20(2).gif)
