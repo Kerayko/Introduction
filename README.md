@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/github/followers/Kerayko?label=Github&style=social)](https://github.com/Kerayko)
 [![Blog](https://img.shields.io/badge/blog-博客园-purple)](https://www.cnblogs.com/alexgzh/)
 [![Blog](https://img.shields.io/badge/blog-vuepress-lilac)](https://Kerayko.github.io/)
-[![Mail](https://img.shields.io/badge/cutting_edge_gzh@163.com-blue)](mailto:cutting_edge_gzh@163.com)
+[![Mail](https://img.shields.io/badge/NetEase-Email-blue)](mailto:cutting_edge_gzh@163.com)
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 ![](https://github.com/Kerayko/Introduction/blob/main/giphy%20(1).gif)    ![](https://github.com/Kerayko/Introduction/blob/main/giphy%20(1).gif)
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
